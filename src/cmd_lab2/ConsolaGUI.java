@@ -1,4 +1,4 @@
-package CMD_Lab2;
+package cmd_lab2;
 
 import java.io.File;
 import javax.swing.*;
